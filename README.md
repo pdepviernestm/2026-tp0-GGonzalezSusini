@@ -4,7 +4,7 @@
 
 ###     ***Nombre:*** *Guido Ignacio Gonzalez Susini*
 ###     ***Legajo:*** *233.927-4*
-###     ***Foto:*** !(C:\Users\Usuario\Pictures\IMG_20251225_025757_968.webp.jpg)
+###     ***Foto:*** ![no hay foto](C:\Users\Usuario\Pictures\IMG_20251225_025757_968.webp.jpg)
 
 ## Pequeña descripción sobre mí:
 ~~~
